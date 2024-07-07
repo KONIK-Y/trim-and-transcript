@@ -1,0 +1,6 @@
+env/
+assets/inputs/*
+assets/outputs/*
+assets/preprocessed/*
+
+scripts/*
